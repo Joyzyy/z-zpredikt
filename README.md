@@ -1,7 +1,7 @@
 # Z & Z PREDIKT
 ___
-### Acest program este menit să determine o predicție a ratei de incidențe cumulate la 14 zile, în funcție de numărul fluctuaților și trendul seriei.
-#### A fost creat pentru sesiunea de comunicari stiintifice la Facultatea de Cibernetica, Statistica si Informatica Economica, reusind sa obtina o mentiune.
+### This program is intended to provide a prediction of the cumulative incidence rate at 14 days, depending on the number of fluctuations and the trend of the series.
+#### It was created for the scientific communications session at the Faculty of Cybernetics, Statistics and Economic Informatics, managing to get a mention.
 ___
 ### POZE
 ![page 1](https://i.ibb.co/pJx65qY/1.png)
